@@ -189,3 +189,5 @@ Serial.println();
 ## MODIFICAMOS LA SEÑAL PARA QUE SE PUEDA VISUALIZAR EN NOTE RED
 ![image](https://github.com/ErickRomeroRamos/Practica-No.9-Node-RED-Ultrasonico/assets/153964793/b5b17a83-1b2e-43d5-8814-686914052bde)
 
+![image](https://github.com/ErickRomeroRamos/Practica-No.9-Node-RED-Ultrasonico/assets/153964793/99d05c15-7dd3-430b-a038-80d8263b0a2f)
+
