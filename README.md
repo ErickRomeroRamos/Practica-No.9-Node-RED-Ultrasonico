@@ -192,5 +192,4 @@ Serial.println();
 ![image](https://github.com/ErickRomeroRamos/Practica-No.9-Node-RED-Ultrasonico/assets/153964793/99d05c15-7dd3-430b-a038-80d8263b0a2f)
 
 
-![Uploading image.png…]()
-
+![image](https://github.com/ErickRomeroRamos/Practica-No.9-Node-RED-Ultrasonico/assets/153964793/b206f7f1-76e8-424d-94b3-086f7ee6d17d)
