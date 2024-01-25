@@ -185,3 +185,7 @@ Serial.println();
     client.publish("ericktemp", output.c_str());
   }
 }
+
+## MODIFICAMOS LA SEÑAL PARA QUE SE PUEDA VISUALIZAR EN NOTE RED
+![image](https://github.com/ErickRomeroRamos/Practica-No.9-Node-RED-Ultrasonico/assets/153964793/b5b17a83-1b2e-43d5-8814-686914052bde)
+
