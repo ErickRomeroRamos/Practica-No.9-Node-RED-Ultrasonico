@@ -18,3 +18,6 @@ Programa Node-RED
 
 ## Instrucciones
 ## AGREGAR UN NUEVA FUNCION LA DE DISTACIA
+![image](https://github.com/ErickRomeroRamos/Practica-No.9-Node-RED-Ultrasonico/assets/153964793/0499cc29-cd15-43a4-b60c-9465b5e9d022)
+
+## CONFUGURAMOS LA NUEVA FUNCION
